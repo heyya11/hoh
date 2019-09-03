@@ -1,1 +1,4 @@
+
+try
+print"hello"
 # hoh
